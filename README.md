@@ -1,9 +1,9 @@
-# Eugene v1.3 🧪
+# Costmate 🧪
 
-Welcome to the official repository for **Eugene v1.3**, featuring the all-new **Liquid Glass** UI engine. This repository hosts the public-facing Support and Privacy documentation required for the Apple App Store.
+Welcome to the official repository for **Costmate**, featuring the all-new **Liquid Glass** UI engine. This repository hosts the public-facing Support and Privacy documentation required for the Apple App Store.
 
 ## 📱 About the App
-Eugene is a simple breakeven calculation app designed for seamless interaction. 
+Costmate is a simple breakeven calculation app designed for seamless interaction. 
 
 ### Key Features
 * Strategic Break-even : Don't just aim for zero. Set your desired profit margin goal and let Costmate do the rest
@@ -17,8 +17,8 @@ Eugene is a simple breakeven calculation app designed for seamless interaction.
 ## 🛠️ App Store Compliance
 This repository provides the live landing pages for App Store Connect:
 
-* **Privacy Policy:** [https://vinsonthomas2245-lab.github.io/costmate] 
-* **Support Page:** [https://vinsonthomas2245-lab.github.io/costmate]
+* **Privacy Policy:** [https://vinsonthomas2245-lab.github.io/Costmate-pages/privacy.html] 
+* **Support Page:** [https://vinsonthomas2245-lab.github.io/Costmate-pages/support.html]
 
 ## ⚖️ License
 Internal project of Vinson Thomas. All rights reserved. 2026.
